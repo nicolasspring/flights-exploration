@@ -11,7 +11,7 @@ This library uses [poetry](https://python-poetry.org/) as a dependency manger. P
 git clone git@github.com:nicolasspring/flights-exploration.git
 cd flights-exploration
 
-# install the ats_processing library inside an virtual environment
+# install the flights_exploration library inside an virtual environment
 poetry install
 
 # activate the virtual environment
